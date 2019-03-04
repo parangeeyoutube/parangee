@@ -1,2 +1,0 @@
-# parangee
-Created with CodeSandbox
